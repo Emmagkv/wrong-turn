@@ -10,6 +10,16 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "CloudsLighting",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a54a45caa08e41bb97b1c19cebfe1093"
+		},
+		{
+			"Name": "InteractiveWorld",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6fef18d187bf4942abad64f2d98a9a73"
 		}
 	]
 }
