@@ -13,28 +13,31 @@
 		},
 		{
 			"Name": "CloudsLighting",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a54a45caa08e41bb97b1c19cebfe1093"
 		},
 		{
 			"Name": "InteractiveWorld",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6fef18d187bf4942abad64f2d98a9a73"
 		},
 		{
 			"Name": "AutoFootstep",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/66cea07913a248bba0ada8dd73c809b9"
 		},
 		{
 			"Name": "n00dFootsteps",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "https://publish.unrealengine.com/v3/edit-product/f1660ba30bf749e0baf7be8fcceef36e"
 		},
 		{
 			"Name": "SurfaceFootstepSystem",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d605a2cceb8546b39accf458c022b0df"
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
